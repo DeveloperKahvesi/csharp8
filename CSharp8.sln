@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp8.Tests", "CSharp8.Tests\CSharp8.Tests.csproj", "{0B9D7EE7-E35D-4183-88DE-905B6CE2706D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp8.Demos", "CSharp8.Demos\CSharp8.Demos.csproj", "{6363FF0E-A7B7-4D9D-B633-3396162D3A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9D7EE7-E35D-4183-88DE-905B6CE2706D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9D7EE7-E35D-4183-88DE-905B6CE2706D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9D7EE7-E35D-4183-88DE-905B6CE2706D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9D7EE7-E35D-4183-88DE-905B6CE2706D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6363FF0E-A7B7-4D9D-B633-3396162D3A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6363FF0E-A7B7-4D9D-B633-3396162D3A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6363FF0E-A7B7-4D9D-B633-3396162D3A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6363FF0E-A7B7-4D9D-B633-3396162D3A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
