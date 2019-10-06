@@ -18,5 +18,15 @@ namespace CSharp8.Demos
 		{
 			return Tag + $"({X},{Y})";
 		}
+
+		public string Describe()
+		{
+			return $"My coordinates are ({X},{Y})";
+		}
+
+		public string DescribeVerbatim()
+		{
+			return $@"My coordinates are:\r\n\t ({X},{Y})";
+		}
 	}
 }

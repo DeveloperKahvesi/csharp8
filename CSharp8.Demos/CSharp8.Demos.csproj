@@ -7,4 +7,7 @@
   <ItemGroup>
     <Folder Include="DefaultInterfaceMembers\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="DefaultInterfaceMembers\JsonFormatter.cs" />
+  </ItemGroup>
 </Project>
